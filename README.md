@@ -21,7 +21,6 @@ This repository contains two Google Colab notebooks for learning **Milvus**, an 
 
 ## 📋 Requirements
 * **Environment:** Google Colab (T4 GPU recommended).
-* **Libraries:** `pymilvus`, `sentence-transformers`.
 
 ## 🚀 Getting Started
 1. Open a notebook in [Google Colab](https://colab.research.google.com/).
